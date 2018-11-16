@@ -1,6 +1,7 @@
 # Copyright (c) 2008-2018 LG Electronics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
+# 아파치 라이센스를 따르네요!
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
